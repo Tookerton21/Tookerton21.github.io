@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Niko Ruiz -- Coder Extraordinaire</title>
-    <link>https://tookerton21.github.io/posts/</link>
+    <link>https://nikoruiz.co/posts/</link>
     <description>Recent content in Posts on Niko Ruiz -- Coder Extraordinaire</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 23 Sep 2018 14:30:42 -0700</lastBuildDate>
     
-	<atom:link href="https://tookerton21.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nikoruiz.co/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>https://tookerton21.github.io/posts/my-first-post/</link>
+      <link>https://nikoruiz.co/posts/my-first-post/</link>
       <pubDate>Sun, 23 Sep 2018 14:30:42 -0700</pubDate>
       
-      <guid>https://tookerton21.github.io/posts/my-first-post/</guid>
+      <guid>https://nikoruiz.co/posts/my-first-post/</guid>
       <description>Thing is not draft anymore.</description>
     </item>
     
