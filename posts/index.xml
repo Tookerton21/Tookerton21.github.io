@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>My First Post</title>
+      <title>Improving Pickathon Project</title>
       <link>https://nikoruiz.co/posts/my-first-post/</link>
       <pubDate>Sun, 23 Sep 2018 14:30:42 -0700</pubDate>
       
       <guid>https://nikoruiz.co/posts/my-first-post/</guid>
-      <description>Thing is not draft anymore.</description>
+      <description>Currently working on improving and translating my C++ 1050 Led and Kinect project into a rust project. I want to optimize it so that it can run efficiently on a Raspberry Pi.</description>
     </item>
     
   </channel>
