@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Niko Ruiz</title>
+    <link>https://nikoruiz.co/projects/</link>
+    <description>Recent content in Projects on Niko Ruiz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Sep 2018 13:44:46 -0700</lastBuildDate>
+    
+	<atom:link href="https://nikoruiz.co/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1050 leds and an Xbox Kinnect</title>
+      <link>https://nikoruiz.co/projects/led_kinnect/</link>
+      <pubDate>Mon, 24 Sep 2018 13:44:46 -0700</pubDate>
+      
+      <guid>https://nikoruiz.co/projects/led_kinnect/</guid>
+      <description>Intro In May my current housemate, Dan Wright, told me about how he got approved for an art installation at Pickathon 2018. The original concept of the interactive project was to use the flaschen taschen project, and build a Etch-a-Sketch that would be operated by two people. After a few morning coffee sessions in our living room the idea of connecting a Xbox Kinnect to the display came up. I took the challenge of getting the data from the Kinect to display on the LED display.</description>
+    </item>
+    
+  </channel>
+</rss>
