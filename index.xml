@@ -6,10 +6,19 @@
     <description>Recent content on Niko Ruiz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Sep 2018 13:44:46 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 24 Sep 2018 21:56:50 -0700</lastBuildDate>
     
 	<atom:link href="https://nikoruiz.co/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Improving Pickathon Project</title>
+      <link>https://nikoruiz.co/posts/my-second-post/</link>
+      <pubDate>Mon, 24 Sep 2018 21:56:50 -0700</pubDate>
+      
+      <guid>https://nikoruiz.co/posts/my-second-post/</guid>
+      <description>Currently working on improving and translating my C++ 1050 Led and Kinect project into a rust project. I want to optimize it so that it can run efficiently on a Raspberry Pi. Instead of taking pixels from an OpenGl image, I will be directly taking the pixels out of the RGB data from the depth sensor. Will be make the openGl window an option that one can still use if they wish.</description>
+    </item>
     
     <item>
       <title>1050 leds and an Xbox Kinnect</title>
@@ -21,12 +30,12 @@
     </item>
     
     <item>
-      <title>Improving Pickathon Project</title>
+      <title>Welcome to My Page</title>
       <link>https://nikoruiz.co/posts/my-first-post/</link>
       <pubDate>Sun, 23 Sep 2018 14:30:42 -0700</pubDate>
       
       <guid>https://nikoruiz.co/posts/my-first-post/</guid>
-      <description>Currently working on improving and translating my C++ 1050 Led and Kinect project into a rust project. I want to optimize it so that it can run efficiently on a Raspberry Pi.</description>
+      <description>I have created this site to let one know a bit about myself at a personal and technical level. I also wanted to have my collection of my work in one location for easy navigation, along with a detailed history of the project. Please feel welcome to message me if you have any questions.</description>
     </item>
     
   </channel>
