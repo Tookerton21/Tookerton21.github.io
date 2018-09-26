@@ -17,7 +17,7 @@
       <pubDate>Mon, 24 Sep 2018 13:44:46 -0700</pubDate>
       
       <guid>https://nikoruiz.co/projects/led_kinnect/</guid>
-      <description>Intro In May my current housemate, Dan Wright, told me about how he got approved for an art installation at Pickathon 2018. The original concept of the interactive project was to use the flaschen taschen project, and build a Etch-a-Sketch that would be operated by two people. After a few morning coffee sessions in our living room the idea of connecting a Xbox Kinnect to the display came up. I took the challenge of getting the data from the Kinect to display on the LED display.</description>
+      <description>Intro Back in May 2018 my web developer pal Dan Wright, roped me into collaborating with him on an art installation at Pickathon 2018. His original concept for the interactive project was to use the flaschen taschen project, and build a giant Etch-a-Sketch that would be operated by two people. After a few morning coffee sessions in our living room the project evolved into a light display that would use Xbox Kinnect it depth sensor to project human movement even in pitch black darkeness.</description>
     </item>
     
   </channel>
