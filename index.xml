@@ -6,10 +6,20 @@
     <description>Recent content on Niko Ruiz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Sep 2018 21:56:50 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 05 Nov 2018 10:56:04 -0800</lastBuildDate>
     
 	<atom:link href="https://nikoruiz.co/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Auto_grow</title>
+      <link>https://nikoruiz.co/projects/auto_grow/</link>
+      <pubDate>Mon, 05 Nov 2018 10:56:04 -0800</pubDate>
+      
+      <guid>https://nikoruiz.co/projects/auto_grow/</guid>
+      <description>Intro I have wanted to build an automated grow tent/room for some time. Such a thing would allow me to leave my home days at a time, or even weeks with the reassurance that my plants will be fine. I will be using a Rasberry pi 3, appropriate sensors, stepper motors, paristalic pumps and Relays. I will be implementing this project in C++.
+Goals:  Watering Temperature control Humidity control Light height  I want to have a moisture sensor that will indicate when soil reaches a level of moisture that requires wire.</description>
+    </item>
     
     <item>
       <title>Improving Pickathon Project</title>
