@@ -42,7 +42,7 @@ Goals:  Watering Temperature control Humidity control Light height  I want to ha
 
 <meta itemprop="datePublished" content="2018-11-05T10:56:04-08:00" />
 <meta itemprop="dateModified" content="2018-11-05T10:56:04-08:00" />
-<meta itemprop="wordCount" content="210">
+<meta itemprop="wordCount" content="295">
 
 
 
@@ -177,6 +177,7 @@ Goals:  Watering Temperature control Humidity control Light height  I want to ha
 
 <ul>
 <li>Raspberry Pi 3b</li>
+<li>Arduino Uno</li>
 <li>8Gig+ Micro SD card</li>
 <li>Channel 20A Relay Control Module</li>
 <li>1ft Power extension cord, 3 prong</li>
@@ -192,6 +193,10 @@ Goals:  Watering Temperature control Humidity control Light height  I want to ha
 <li>Personal de-humifier</li>
 <li>Personal humidifier</li>
 </ul>
+
+<h2 id="update-11-19-18">update 11.19.18</h2>
+
+<p>In my original implementation of the the project I was only going to use a Pi but ran into issues with the relay module. The Pi was lagging when sending signals to the relays. I decided to get an Arduino to use a slave to control the relays. I am using the serial library of wiringPi to communicate with the pi. I currently have it hooked up Via usb at the moment and have had no lag in the program execution.</p>
 
 <h2 id="github-link">Github link</h2>
 

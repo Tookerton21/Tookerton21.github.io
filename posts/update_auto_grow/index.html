@@ -29,25 +29,28 @@
     
 
     <meta property="og:title" content="First update on auto grow" />
-<meta property="og:description" content="I currently have the software for the moisture sensor, temp &amp; humidity sensor, and the relays (pump, heater). They have been tested with the hardware to ensure that they are working correctly. Currently I am working on the main program to tie everything together. I am going to multi thread the program so that each thread takes care of one tast and can put the thread the sleep for what I see appropriate before checking again." />
+<meta property="og:description" content="Update 11.19.18 I just added an arduino uno to the project as a slave to the pi to control the relay module. It is communicating via usb at the moment and just sending it signals, to open and close relays. Just finished writing and testing code written for the pi and arduino to communicate along with testing it.
+Auto Grow I currently have the software for the moisture sensor, temp &amp; humidity sensor, and the relays (pump, heater)." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://nikoruiz.co/posts/update_auto_grow/" /><meta property="article:published_time" content="2018-11-14T18:34:04-08:00"/>
 <meta property="article:modified_time" content="2018-11-14T18:34:04-08:00"/>
 
 <meta itemprop="name" content="First update on auto grow">
-<meta itemprop="description" content="I currently have the software for the moisture sensor, temp &amp; humidity sensor, and the relays (pump, heater). They have been tested with the hardware to ensure that they are working correctly. Currently I am working on the main program to tie everything together. I am going to multi thread the program so that each thread takes care of one tast and can put the thread the sleep for what I see appropriate before checking again.">
+<meta itemprop="description" content="Update 11.19.18 I just added an arduino uno to the project as a slave to the pi to control the relay module. It is communicating via usb at the moment and just sending it signals, to open and close relays. Just finished writing and testing code written for the pi and arduino to communicate along with testing it.
+Auto Grow I currently have the software for the moisture sensor, temp &amp; humidity sensor, and the relays (pump, heater).">
 
 
 <meta itemprop="datePublished" content="2018-11-14T18:34:04-08:00" />
 <meta itemprop="dateModified" content="2018-11-14T18:34:04-08:00" />
-<meta itemprop="wordCount" content="134">
+<meta itemprop="wordCount" content="194">
 
 
 
 <meta itemprop="keywords" content="" />
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="First update on auto grow"/>
-<meta name="twitter:description" content="I currently have the software for the moisture sensor, temp &amp; humidity sensor, and the relays (pump, heater). They have been tested with the hardware to ensure that they are working correctly. Currently I am working on the main program to tie everything together. I am going to multi thread the program so that each thread takes care of one tast and can put the thread the sleep for what I see appropriate before checking again."/>
+<meta name="twitter:description" content="Update 11.19.18 I just added an arduino uno to the project as a slave to the pi to control the relay module. It is communicating via usb at the moment and just sending it signals, to open and close relays. Just finished writing and testing code written for the pi and arduino to communicate along with testing it.
+Auto Grow I currently have the software for the moisture sensor, temp &amp; humidity sensor, and the relays (pump, heater)."/>
 
   </head>
 
@@ -147,7 +150,15 @@
       <time class="f6 mv4 dib tracked" datetime="2018-11-14T18:34:04-08:00">November 14, 2018</time>
     </header>
 
-    <main class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>I currently have the software for the moisture sensor, temp &amp; humidity sensor, and the relays (pump, heater). They have been tested with the hardware to ensure that they are working correctly. Currently I am working on the main program to tie everything together. I am going to multi thread the program so that each thread takes care of one tast and can put the thread the sleep for what I see appropriate before checking again. For the higher amp appliances, I will only allow one of them to run at the same time to ensure that I dont surpass my Amp limit on the outlet. Multi threading, and creating a global mutex to communicate to other threads that another high amp appliance is being used, and to wait until that process is done.</p>
+    <main class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l">
+
+<h2 id="update-11-19-18">Update 11.19.18</h2>
+
+<p>I just added an arduino uno to the project as a slave to the pi to control the relay module. It is communicating via usb at the moment and just sending it signals, to open and close relays. Just finished writing and testing code written for the pi and arduino to communicate along with testing it.</p>
+
+<h1 id="auto-grow">Auto Grow</h1>
+
+<p>I currently have the software for the moisture sensor, temp &amp; humidity sensor, and the relays (pump, heater). They have been tested with the hardware to ensure that they are working correctly. Currently I am working on the main program to tie everything together. I am going to multi thread the program so that each thread takes care of one tast and can put the thread the sleep for what I see appropriate before checking again. For the higher amp appliances, I will only allow one of them to run at the same time to ensure that I dont surpass my Amp limit on the outlet. Multi threading, and creating a global mutex to communicate to other threads that another high amp appliance is being used, and to wait until that process is done.</p>
 
 <p><img src="/images/Autogrow_update.jpg" alt="update" /></p>
 <ul class="pa0">

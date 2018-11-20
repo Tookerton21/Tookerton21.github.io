@@ -17,7 +17,8 @@
       <pubDate>Wed, 14 Nov 2018 18:34:04 -0800</pubDate>
       
       <guid>https://nikoruiz.co/posts/update_auto_grow/</guid>
-      <description>I currently have the software for the moisture sensor, temp &amp;amp; humidity sensor, and the relays (pump, heater). They have been tested with the hardware to ensure that they are working correctly. Currently I am working on the main program to tie everything together. I am going to multi thread the program so that each thread takes care of one tast and can put the thread the sleep for what I see appropriate before checking again.</description>
+      <description>Update 11.19.18 I just added an arduino uno to the project as a slave to the pi to control the relay module. It is communicating via usb at the moment and just sending it signals, to open and close relays. Just finished writing and testing code written for the pi and arduino to communicate along with testing it.
+Auto Grow I currently have the software for the moisture sensor, temp &amp;amp; humidity sensor, and the relays (pump, heater).</description>
     </item>
     
     <item>
